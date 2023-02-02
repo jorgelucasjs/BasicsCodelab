@@ -40,7 +40,6 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
 @Composable
 fun MyApp(modifier: Modifier = Modifier) {
 
@@ -76,7 +75,6 @@ fun OnboardingScreen(
     }
 
 }
-
 @Composable
 private fun Greetings(
     modifier: Modifier = Modifier,
